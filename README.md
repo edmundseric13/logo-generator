@@ -23,6 +23,8 @@
 
   Once the user is in the command line, all they need to do is type in node index.js and hit enter. After, just follow the prompts to generate your logo. Once the logo is generated it will save to the examples folder and be ready to preview or open in a web browser.
 
+  https://drive.google.com/file/d/10o3n_r-QT9iQY2UC9-Yu11Z9t9qn3_7N/view
+
   ## License
 
   This project is licensed under the None license.
